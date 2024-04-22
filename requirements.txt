@@ -1,0 +1,12 @@
+numpy~=1.23.5
+matplotlib~=3.4.0
+mealpy~=2.5.4
+scipy~=1.12.0
+PySimpleGUI~=4.49.0
+sklearn~=0.0.post11
+scikit-learn~=1.0.2
+keras~=2.9.0
+xgboost~=2.0.3
+catboost~=1.2.2
+lightgbm~=3.3.5
+opencv-python~=4.7.0.72
